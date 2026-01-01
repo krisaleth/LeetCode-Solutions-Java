@@ -25,6 +25,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -34,6 +35,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0014-longest-common-prefix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,11 +51,13 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0031-next-permutation](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |

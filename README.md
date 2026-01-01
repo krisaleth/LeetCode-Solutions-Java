@@ -7,11 +7,6 @@ This repository contains optimized solutions for various algorithmic problems on
 - Total Problems Solved: 43+
 - Core Objectives: Strengthening logical thinking, mastering data structures, and optimizing algorithmic complexity (Time: O(n), O(log n); Space: O(n)).
 
-## Repository Structure
-- /Easy: Fundamental problems involving Arrays, Strings, and HashMaps.
-- /Medium: Intermediate challenges focusing on Stacks, Queues, Trees, and Search Algorithms.
-- /Top-Interview-Questions: Curated problems frequently encountered in technical interviews at major tech companies.
-
 ## Problem-Solving Approach
 Each solution is developed with a focus beyond just achieving an "Accepted" status:
 1. Time Complexity: Minimizing execution time.

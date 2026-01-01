@@ -1,20 +1,20 @@
-# 🏆 LeetCode Journey - Java Solutions
+# ð LeetCode Journey - Java Solutions
 
-Kho lưu trữ các giải pháp tối ưu cho các bài toán thuật toán trên LeetCode, được thực hiện bởi sinh viên IT năm 3. 
+Kho lÆ°u trá»¯ cÃ¡c giáº£i phÃ¡p tá»i Æ°u cho cÃ¡c bÃ i toÃ¡n thuáº­t toÃ¡n trÃªn LeetCode, ÄÆ°á»£c thá»±c hiá»n bá»i sinh viÃªn IT nÄm 3. 
 
-## 📊 Thống kê cá nhân
-- **Ngôn ngữ chính:** Java
-- **Tổng số bài đã giải:** 43+
-- **Mục tiêu:** Rèn luyện tư duy logic, cấu trúc dữ liệu và tối ưu hóa độ phức tạp thuật toán (O(n), O(log n)).
+## ð Thá»ng kÃª cÃ¡ nhÃ¢n
+- **NgÃ´n ngá»¯ chÃ­nh:** Java
+- **Tá»ng sá» bÃ i ÄÃ£ giáº£i:** 43+
+- **Má»¥c tiÃªu:** RÃ¨n luyá»n tÆ° duy logic, cáº¥u trÃºc dá»¯ liá»u vÃ  tá»i Æ°u hÃ³a Äá» phá»©c táº¡p thuáº­t toÃ¡n (O(n), O(log n)).
 
-## 💡 Tư duy giải quyết
-Mỗi bài giải không chỉ hướng tới kết quả "Accepted" mà còn tập trung vào:
-1. **Time Complexity:** Tối ưu thời gian chạy.
-2. **Space Complexity:** Tối ưu bộ nhớ sử dụng.
-3. **Clean Code:** Viết code dễ đọc, dễ hiểu.
+## ð¡ TÆ° duy giáº£i quyáº¿t
+Má»i bÃ i giáº£i khÃ´ng chá» hÆ°á»ng tá»i káº¿t quáº£ "Accepted" mÃ  cÃ²n táº­p trung vÃ o:
+1. **Time Complexity:** Tá»i Æ°u thá»i gian cháº¡y.
+2. **Space Complexity:** Tá»i Æ°u bá» nhá» sá»­ dá»¥ng.
+3. **Clean Code:** Viáº¿t code dá» Äá»c, dá» hiá»u.
 
 ---
-*“Coding is a marathon, not a sprint.”*
+*âCoding is a marathon, not a sprint.â*
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -34,9 +34,18 @@ Mỗi bài giải không chỉ hướng tới kết quả "Accepted" mà còn t�
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

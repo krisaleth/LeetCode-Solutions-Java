@@ -65,6 +65,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0228-summary-ranges) |
 ## Sorting
 |  |
 | ------- |

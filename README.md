@@ -30,6 +30,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -56,4 +58,8 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0009-palindrome-number](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

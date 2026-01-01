@@ -78,6 +78,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0238-product-of-array-except-self](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0485-max-consecutive-ones) |
 ## Sorting
 |  |
 | ------- |

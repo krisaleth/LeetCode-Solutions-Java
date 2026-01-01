@@ -30,6 +30,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0128-longest-consecutive-sequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0049-group-anagrams](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0015-3sum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |

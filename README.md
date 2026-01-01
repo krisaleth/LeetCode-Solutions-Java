@@ -44,6 +44,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0076-minimum-window-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0392-is-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |

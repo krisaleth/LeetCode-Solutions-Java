@@ -89,6 +89,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0990-verifying-an-alien-dictionary](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0990-verifying-an-alien-dictionary) |
 | [1580-shuffle-the-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/2058-concatenation-of-array) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0054-spiral-matrix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/2058-concatenation-of-array) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Union Find
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0238-product-of-array-except-self) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Queue
 |  |
 | ------- |

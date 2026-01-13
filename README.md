@@ -93,6 +93,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0347-top-k-frequent-elements](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0645-set-mismatch) |
+| [0792-binary-search](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0792-binary-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0990-verifying-an-alien-dictionary) |
 | [1580-shuffle-the-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/2058-concatenation-of-array) |
@@ -188,6 +189,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |

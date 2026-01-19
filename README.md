@@ -78,6 +78,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
@@ -201,6 +202,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |

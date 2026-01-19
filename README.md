@@ -58,6 +58,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0567-permutation-in-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0647-palindromic-substrings) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0990-verifying-an-alien-dictionary) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -148,6 +149,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0009-palindrome-number](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0412-fizz-buzz) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Trie
 |  |

@@ -1,7 +1,5 @@
 class Solution {
     public String gcdOfStrings(String str1, String str2) {
-        StringBuilder sb = new StringBuilder();
-        int i = 0;
         if (!(str1+str2).equals(str2+str1))  {
             return "";
         }

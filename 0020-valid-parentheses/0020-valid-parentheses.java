@@ -10,7 +10,10 @@ class Solution {
                 check.push(s.charAt(i));
             }
             else if (s.charAt(i) == ')' || s.charAt(i) == ']' || s.charAt(i) == '}') {
-                if (!check.empty()) {
+                if (check.empty()) {
+                    return false;
+                }
+                else {
                     if (s.charAt(i) == ')' && check.peek() == '(' ||
                     s.charAt(i) == ']' && check.peek() == '[' ||
                     s.charAt(i) == '}' && check.peek() == '{') { 
@@ -19,9 +22,6 @@ class Solution {
                     else {
                         return false;
                     }
-                }
-                else {
-                    return false;
                 }
             }
             i++;

@@ -149,6 +149,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0009-palindrome-number](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -207,6 +208,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |

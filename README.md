@@ -254,4 +254,20 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0645-set-mismatch](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0645-set-mismatch) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3676-smallest-number-with-all-set-bits) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

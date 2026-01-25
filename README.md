@@ -259,11 +259,13 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0733-flood-fill) |
@@ -275,6 +277,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree

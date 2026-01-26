@@ -165,6 +165,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
 | ------- |
@@ -226,6 +227,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -287,4 +289,8 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0049-group-anagrams](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
@@ -136,6 +137,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0075-sort-colors](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0567-permutation-in-string) |
@@ -167,6 +169,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |

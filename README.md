@@ -155,6 +155,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0009-palindrome-number](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -186,6 +187,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0647-palindromic-substrings) |
@@ -301,4 +303,8 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

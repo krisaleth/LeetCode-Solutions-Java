@@ -174,10 +174,12 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0206-reverse-linked-list) |
 ## String Matching
 |  |
 | ------- |
